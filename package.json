@@ -1,0 +1,31 @@
+{
+  "name": "simplechat",
+  "version": "1.0.0",
+  "description": "Simple Chat App",
+  "main": "app.js",
+  "dependencies": {
+    "simplechat": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annalie/Simplechat.git"
+  },
+  "keywords": [
+    "simple",
+    "chat",
+    "app"
+  ],
+  "engines": {
+    "node": "10.16"
+  },
+  "author": "Annalie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Annalie/Simplechat/issues"
+  },
+  "homepage": "https://github.com/Annalie/Simplechat#readme"
+}
